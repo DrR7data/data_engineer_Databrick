@@ -208,4 +208,5 @@ __marimo__/
 ./conf.py
 ./config.ipynb
 ./config
+./pipeline_artist_delta/setup
 
